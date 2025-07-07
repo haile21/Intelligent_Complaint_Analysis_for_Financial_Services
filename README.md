@@ -1,9 +1,8 @@
-# 🧠 Intelligent Complaint Analysis for Financial Services  
+# Intelligent Complaint Analysis for Financial Services  
 **RAG-Powered Chatbot + Feedback Intelligence Platform**
 
----
 
-## 🔍 Problem Statement
+##  Problem Statement
 
 Financial institutions receive large volumes of customer complaints via emails, call center logs, and support tickets. These complaints are often:
 - **Unstructured**
@@ -15,16 +14,13 @@ This project transforms passive complaint collection into an intelligent, real-t
 - Trend detection
 - Better customer satisfaction
 
----
-
-## 🎯 Project Objectives
+## Project Objectives
 
 - Automate classification and triage of customer complaints
 - Build a Retrieval-Augmented Generation (RAG) chatbot to assist agents
 - Extract actionable insights from raw feedback data
 - Provide strategic dashboards for business decision-makers
 
----
 
 ## 🧰 Tech Stack
 
@@ -38,7 +34,6 @@ This project transforms passive complaint collection into an intelligent, real-t
 | NLP Processing     | spaCy, NLTK, TextBlob    |
 | Visualization      | Plotly, Pandas           |
 
----
 
 ## 🚀 Getting Started
 
