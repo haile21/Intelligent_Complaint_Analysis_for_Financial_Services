@@ -35,9 +35,7 @@ This project transforms passive complaint collection into an intelligent, real-t
 | Visualization      | Plotly, Pandas           |
 
 
-## 🚀 Getting Started
-
-### Installation
+### cloning and Installation
 
 ```bash
 git clone https://github.com/haile21/Intelligent_Complaint_Analysis_for_Financial_Services.git
